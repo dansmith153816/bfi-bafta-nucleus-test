@@ -1,0 +1,91 @@
+a{
+    text-decoration:revert;
+    color: #222;
+}
+div#topRightMenu a {
+    color: #222;
+}
+div#requiredFields{
+    border-left: 10px #222 solid;
+}
+iframe.required{
+    border-left: 10px #222 solid;
+}
+input.required,select.required,textarea.required,div.mediaLibraryQuestion.required {
+    border-left:10px #222 solid;
+}
+span.checkbox label {
+    color: #222;
+}
+div#topBorder{
+    background: #222;
+}
+div#topMenu a.active{
+    border-bottom: 5px solid #222;
+}
+div#topMenu a:hover, div#topMenu a:focus{
+    border-bottom: 5px solid #222;
+}
+div.text{
+    color: #222;
+}
+td.question {
+    color: #222;
+}
+td.shortHelp, body.entryForm .picklistExplanation {
+    color: #222;
+}
+div.sectionWrapper{
+    border-top: 10px #222 solid;
+}
+h2.right {
+    background:#222;
+}
+h3 {
+    background:#222;
+}
+div.charsRemaining, div.wordsUsed {
+    color: #222;
+}
+body.screen div#widthWarning {
+    background: #222;
+}
+.button,
+button,
+input[type=button],
+input[type=submit]
+{
+    background: #222;
+}
+div#topRightMenu ul li.divider {
+    border-right: 2px solid #222;
+}
+
+div#topRightMenu > ul li {
+    color: #222;
+}
+div#loginHeading, div#registerHeading {
+    background-color: #222;
+    border: 0px solid #222;
+}
+input {
+    border-left: 10px solid #222;
+}
+div#headerLogo {
+    background-image: url(https://whatson.bfi.org.uk/content/Images/Testing/diversity-standards-logo.png);
+    background-repeat: no-repeat;
+    background-position: 0px 30px;
+    background-size: 85px 130px;
+    width: 400px;
+    height: 170px;
+    float: left;
+}
+div#footerLogo {
+    background-image: url(https://whatson.bfi.org.uk/content/Images/Testing/national-lottery-logo.png);
+    background-repeat: no-repeat;
+    background-position: 0px 30px;
+    background-size: 244px 78px;
+    width: 400px;
+    height: 110px;
+    float: left;
+}
